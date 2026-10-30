@@ -1,0 +1,4 @@
+Gene symbol: DMD
+NCBI Gene ID: 1756
+Official name: dystrophin
+Chromosome: X
